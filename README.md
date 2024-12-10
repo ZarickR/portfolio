@@ -1,6 +1,6 @@
-# ZarickR - What I can do for the gaming community.
+# ZarickR - My porfolio site for what I have done already in the Codecademy full-stack web-dev career path.
 
-So this is what I would call a porforlio website, that showcases my work on things that have inspired me to make cool projects for the gaming community.
+So this is what I would call a porforlio website, that showcases my work on things that have inspired me to make cool projects since studying in Codecademy.
 
 This will be a site that will hopefully continue to grow as I add projects to it, and I will do my best to keep it updated.
 
