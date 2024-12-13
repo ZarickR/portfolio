@@ -1,21 +1,36 @@
+/* General entire page style. */
 html {
   background-color: cadetblue;
 }
 
+/* Main header style. */
 .main-nav {
+  position: fixed;
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 3rem;
 }
 
 #nav_logo {
-  height: 1.5em;
+  max-width: 100%;
+  height: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
-ul {
+nav ul {
   display: flex;
-  padding: 1em;
 }
 
-li {
-  font-size: 1.5em;
+nav li {
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+/* Main body style */
+main {
+  position: relative;
+  top: 3rem;
 }
